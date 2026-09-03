@@ -19,17 +19,35 @@
     </LogicalFolder>
     <LogicalFolder Name="Запросы" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="СозданиеБД.sql">
+        <FileNode Name="наполнительТаблиц.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>СозданиеБД.sql</FullPath>
+          <FullPath>наполнительТаблиц.sql</FullPath>
         </FileNode>
-        <FileNode Name="УдалениеБД.sql">
+        <FileNode Name="СимвольныйТип.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>УдалениеБД.sql</FullPath>
+          <FullPath>СимвольныйТип.sql</FullPath>
+        </FileNode>
+        <FileNode Name="СозданиеТаблиц.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>СозданиеТаблиц.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ЧислаСТочками.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ЧислаСТочками.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ЧисловойТип.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP11A1\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP11A1\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ЧисловойТип.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

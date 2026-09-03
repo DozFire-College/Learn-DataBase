@@ -5,12 +5,16 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Базы_Данных", "Базы_Данных\Базы_Данных.ssmssqlproj", "{5876204D-224B-46C8-9B03-7245D6D2520D}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Таблицы", "Таблицы\Таблицы.ssmssqlproj", "{1B72F687-F3CA-4A13-8E5F-61BE63A38FB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5876204D-224B-46C8-9B03-7245D6D2520D}.Default|Default.ActiveCfg = Default
+		{18A693B6-1BEB-4DFD-9A10-70CFFEBE9EA2}.Default|Default.ActiveCfg = Default
+		{1B72F687-F3CA-4A13-8E5F-61BE63A38FB6}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
