@@ -1,8 +1,0 @@
-USE Praktika
-GO
-
-UPDATE persons  SET id = 0 WHERE id IS NULL;
-UPDATE persons2 SET id = 0 WHERE id IS NULL;
-
-ALTER TABLE persons  ALTER COLUMN id INT NOT NULL;
-ALTER TABLE persons2 ALTER COLUMN id INT NOT NULL;
